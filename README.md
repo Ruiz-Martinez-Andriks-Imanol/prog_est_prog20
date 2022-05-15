@@ -23,6 +23,6 @@ Objetivo: Hacer un programa que calcule el area de un triángulo usando la forma
 <br>
 <p>Breve descripción:
 Es un programa que calcule el area de un triángulo usando la forma de herón, 
-la cual usa por medio de una función que reciba como parametro los 3 lados y regrese el área
+la cual usa por medio de una función que reciba como parametro los 3 lados y regrese el área.
 <br>
 </p>
