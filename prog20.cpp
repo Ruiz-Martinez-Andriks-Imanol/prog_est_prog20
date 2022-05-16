@@ -1,9 +1,9 @@
-/* Autor: Andriks Imanol Ruiz M醨tinez, Realizado: 03/03/2022
+/* Autor: Andriks Imanol Ruiz Mart铆nez, Realizado: 03/03/2022
 Escuela: Universidad del Valle de Mexico Campus Villahermosa
-Materia: Programaci髇 Estructrada
+Materia: Programaci贸n Estructurada
 Ciclo: 01/2022
 
-Este es un programa de  funciones en Lenguaje C de la materia de Programaci髇 Estructurada
+Este es un programa de  funciones en Lenguaje C de la materia de Programaci贸n Estructurada
 Muestra el uso de:
 
     -Variables flotantes
@@ -13,7 +13,7 @@ Muestra el uso de:
     -Prototipos
     -El uso de include para las librerias
     -Operaciones habilitadas por math.h
-    -Comentarios para la documentaci髇 interna del programa
+    -Comentarios para la documentaci贸n interna del programa
 */
 #include<stdio.h>
 #include<math.h>
@@ -21,7 +21,7 @@ Muestra el uso de:
 float calcularArea(float a, float b, float c);
 //main
 int main(){
-	//Declaraci髇 de variables
+	//Declaraci贸n de variables
 	float x,y,z, a;
 	//Proceso
 	printf("Introudce el primer lado del triangulo: ");
